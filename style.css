@@ -1,0 +1,255 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.image {
+    background-color: orangered;
+    height: 950px;
+}
+.list {
+    border-radius: 0px 0px 25px 25px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    width: 1240px;
+    height: 100px;
+    margin-left: 140px;
+}
+li {
+    list-style: none;
+    padding: 60px;
+}
+ul {
+    display: flex;
+}
+.list li {
+    font-size: 20px;
+}
+i {
+    padding: 50px;
+    margin-left: 450px;
+}
+.logo {
+    font-size: 40px;
+}
+.text1 h1 {
+    font-size: 60px;
+    color: white;
+    padding-left: 150px;
+    padding-top: 70px;
+}
+.tombol {
+    margin-top: 50px;
+    margin-left: 140px;
+}
+.tombol a {
+    text-decoration: none;
+    border-radius: 20px;
+    color: orangered;
+    transition: all .4s;
+    background-color: white;
+    padding: 20px 40px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.img1 img {
+    margin-top: 40px;
+}
+
+.img1 {
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    margin-left: 830px;
+    margin-top: -200px;
+    border-top-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+}
+
+.img2 img {
+    margin-top: 110px;
+}
+
+.img2 {
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin-top: -70px;
+    border-top-right-radius: 150px;
+    border-top-left-radius: 150px;
+}
+.kotak1 {
+    background-color: white;
+    height: 350px;
+}
+
+.kotak1 h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.kotak1 h3 {
+    text-align: center;
+}
+
+.isikotak1  {
+    padding: 90px;
+}
+
+.isikotak1 {
+    display: flex;
+    margin-top: -100px;   
+}
+
+.isikotak1 img  {
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.isikotak1 article {
+    padding-top: 120px;
+}
+
+.isikotak1 article span {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.kotak2 {
+    background-color: rgb(201, 201, 201);
+    height: 50%;
+}
+
+.kotak2 h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+}
+
+.isikotak2 {
+    padding: 60px;
+}
+
+.teks {
+    font-weight: bold;
+    color: white ;
+    background-color: orangered;
+    width: 250px;
+    height: 100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.teks article{
+    padding: 30px;
+}
+
+.isikotak2 img {
+    display: flex;
+    flex-direction: column;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: white;
+}
+
+.container {
+    display: flex;
+}
+
+.container2 {
+    display: flex;
+}
+
+
+.container3 {
+    display: flex;
+    padding-left: 375px;
+}
+
+.card4 {
+    background-color: white;
+    height: 450px;
+}
+
+.kotak3 {
+    display: flex;
+    margin-left: 20%;
+}
+
+.teks h2 {
+    color: black;
+    text-align: center;
+
+}
+
+.k1{
+    margin-top: 30px;
+    display: flex;
+    background-color: white;
+    justify-content:space-between;
+}
+
+.text{
+    text-align: center;
+}
+
+.text h1{
+    padding-top: 20px;
+    font-size: 40px;
+    color: orangered;
+}
+
+.text p{
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+.text button{
+    margin-top: 40px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+    background-color: white;
+}
+
+.k1 img {
+    margin: 60px;
+}
+
+.k2 {
+    background-color: black;
+    height: 300px;
+    color: white;
+    display: flex;
+}
+
+.f1 h1{
+    margin-left: 100px;
+    padding-top: 60px;
+    font-size: 40px
+}
+
+.f1 h1 span {
+    color: orangered;
+}
+
+.f1 p{
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+    padding-left: 70px;
+}
+
+h2{
+    margin-top: 60px;
+    font-size: 25px;
+    margin-left: 200px;
+}
+h6{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 200px;
+}
